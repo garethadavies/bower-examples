@@ -1,0 +1,9 @@
+{
+  "name": "your-app-name",
+  "version": "0.0.0",
+  "dependencies": {
+    "zepto": "~1.0",
+    "underscore": "~1.4.4",
+    "backbone": "~1.0.0"
+  }
+}
